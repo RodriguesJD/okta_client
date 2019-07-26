@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "okta_client"
+version = "0.1.0"
+description = ""
+authors = ["Jeremy Rodrigues <jeremy.rodrigues@therealreal.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.22"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

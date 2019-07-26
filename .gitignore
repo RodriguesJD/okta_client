@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.pytest_cache
+venv
+.idea
+*__pycache__*
+*.DS_Store*
